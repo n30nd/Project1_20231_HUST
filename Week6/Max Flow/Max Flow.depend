@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699287212 source:d:\code block\codeblocks\project1\week6\max flow\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+
